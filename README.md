@@ -1,4 +1,4 @@
-# BeFoodie aka SwiggyClone
+# BeFoodie -> SwiggyClone
 Demo Link: https://befoodiehub.netlify.app/
 
 
